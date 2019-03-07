@@ -11,6 +11,7 @@ namespace teste_git
         static void Main(string[] args)
         {
             Console.WriteLine("TESTE");
+            Console.WriteLine("Teste 2");
             Console.ReadLine();  
         }
     }
